@@ -21,3 +21,5 @@ Simple app with functionality of a CRUD
 ### Deploy Heroku
 
 ### Persistence MongoDB
+
+### GitHub Actions CI/CD
